@@ -4,7 +4,4 @@
    Instrutor</br>
    Dr. Andrew Sutton
 </p>
-Description
-Objectives 
-Projects
-Notes 
+This repository consists of notes and projects to the OOP course from The Univeristy of Akron spring 2019: **Description**, **Objectives**,  **Projects**, **Notes** 
