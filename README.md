@@ -32,7 +32,7 @@ These design and architeture ideas require programming language support. The cou
 ## Projects
 
 ## Notes
-* 01/15/2019
+* [01/15/2019](Notes/01/15/2019.pdf)
 * 01/17/2019
 * 01/22/2019
 * 01/24/2019
