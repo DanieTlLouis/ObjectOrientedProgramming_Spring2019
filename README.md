@@ -11,9 +11,9 @@ This repository consists of notes and projects to the OOP course from The Univer
 
 ## Table Of Contents
 * [Description](#description)
-* [Objectives]
-* [Projects]
-* [Notes] 
+* [Objectives](#objectives)
+* [Projects](#projects)
+* [Notes](#notes) 
 
 ## Description
 This course explores fundamental ideas in the design and development of software systems. Topics include abstraction, encapsulation, class inheritance, subtyping, and polymorphism. Students will learn how to use these principles to build reliable and maintanable systems. The course will also cover other asspects of software contruction such as physical software design and system architecture. 
@@ -29,6 +29,6 @@ These design and architeture ideas require programming language support. The cou
 * Understand generic programming and its relationship with object-oriented programming 
 * Apply this knowledge to build interesting and useful applications 
 
-** Projects
+## Projects
 
-** Notes
+## Notes
