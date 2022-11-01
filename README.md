@@ -4,4 +4,10 @@
    Instrutor</br>
    Dr. Andrew Sutton
 </p>
-This repository consists of notes and projects to the OOP course from The Univeristy of Akron spring 2019: **Description**, **Objectives**,  **Projects**, **Notes** 
+[![GitHub repo size](https://img.shields.io/github/repo-size/DanieTlLouis/ObjectOrientedProgramming_Spring2019)](https://github.com/DanieTlLouis/ObjectOrientedProgramming_Spring2019/archive/master.zip)
+This repository consists of notes and projects to the OOP course from The Univeristy of Akron spring 2019. 
+## Table Of Contents
+* [Description]
+* [Objectives]
+* [Projects]
+* [Notes] 
