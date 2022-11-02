@@ -32,7 +32,7 @@ These design and architeture ideas require programming language support. The cou
 ## Projects
 | Project | Sub Name | Description | Code | Write Up |
 |:-------:|:--------:|:-----------:|:----:|:--------:|
-| Practice 1 | War | [Description](/Practice1/ReadMe.txt) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_war_WriteUp.pdf) | 
+| Practice 1 | War | [Description](/Practice1/ReadMe.txt) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_WriteUp.pdf) | 
 | Practice 2 | War Again |Description| Code | Write Up |
 | Practuce 3 | | Description | Code | Write Up |
 | Practice 4 | Card With Joker| Description | Code | Write up|
