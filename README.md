@@ -33,11 +33,11 @@ These design and architeture ideas require programming language support. The cou
 | Project | Sub Name | Description | Code | Write Up |
 |:-------:|:--------:|:-----------:|:----:|:--------:|
 | Practice 1 | War | Description | Code | Write Up | 
-* Practice 2
-* Practuce 3
-* Practice 4
-* Practice 5
-* Practice 6
+| Practice 2 | War Again |Description| Code | Write Up |
+| Practuce 3 | | Description | Code | Write Up |
+| Practice 4 | Card With Joker| Description | Code | Write up|
+| Practice 5 |  Object Oriented Card | Description | Code | Write Up |
+| Practice 6 | | Description | Code | Write Up |
 
 ## Notes
 * [01/15/2019](/Notes/01_15_2019.pdf)
