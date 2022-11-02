@@ -32,12 +32,13 @@ These design and architeture ideas require programming language support. The cou
 ## Projects
 | Project | Sub Name | Description | Code | Write Up |
 |:-------:|:--------:|:-----------:|:----:|:--------:|
-| Practice 1 | War | Description | Code | Write Up | 
+| Practice 1 | War | Description | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_ war_WriteUp.pdf) | 
 | Practice 2 | War Again |Description| Code | Write Up |
 | Practuce 3 | | Description | Code | Write Up |
 | Practice 4 | Card With Joker| Description | Code | Write up|
 | Practice 5 |  Object Oriented Card | Description | Code | Write Up |
 | Practice 6 | | Description | Code | Write Up |
+|Term Project| | Description | Code | Write Up |
 
 ## Notes
 * [01/15/2019](/Notes/01_15_2019.pdf)
