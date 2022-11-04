@@ -30,15 +30,15 @@ These design and architeture ideas require programming language support. The cou
 * Apply this knowledge to build interesting and useful applications 
 
 ## Projects
-| Project | Sub Name | Description | Code | Write Up |
-|:-------:|:--------:|:-----------:|:----:|:--------:|
-| Practice 1 | War | [Description](/Practice1/ReadMe.txt) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_WriteUp.pdf) | 
-| Practice 2 | War Again | [Description](/Practice2/ReadMe.txt) | [Code](/Practice2/Code/) | [Write Up](/Practice2/PracticeTwo_WriteUp.pdf) |
-| Practuce 3 | | Description | Code | Write Up |
-| Practice 4 | Card With Joker| Description | Code | Write up|
-| Practice 5 |  Object Oriented Card | Description | Code | Write Up |
-| Practice 6 | | Description | Code | Write Up |
-|Term Project| | Description | Code | Write Up |
+|  Project     | Sub Name             | Description                          | Code | Write Up |
+|:------------:|:--------------------:|:------------------------------------:|:----:|:--------:|
+|  Practice 1  | War                  | [Description](/Practice1/ReadMe.txt) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_WriteUp.pdf) | 
+|  Practice 2  | War Again            | [Description](/Practice2/ReadMe.txt) | [Code](/Practice2/Code/) | [Write Up](/Practice2/PracticeTwo_WriteUp.pdf) |
+|  Practuce 3  | | Description        | Code | Write Up |
+|  Practice 4  | Card With Joker      | Description | Code | Write up|
+|  Practice 5  | Object Oriented Card | Description | Code | Write Up |
+|  Practice 6  | Web Scrapper         | Description | Code | Write Up |
+| Term Project | Astroids             | Description | Code | Write Up |
 
 ## Notes
 * [01/15/2019](/Notes/01_15_2019.pdf)
