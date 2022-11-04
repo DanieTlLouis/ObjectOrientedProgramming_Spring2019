@@ -32,12 +32,12 @@ These design and architeture ideas require programming language support. The cou
 ## Projects
 |  Project     | Sub Name             | Description                          | Code | Write Up |
 |:------------:|:--------------------:|:------------------------------------:|:----:|:--------:|
-|  Practice 1  | War                  | [Description](/Practice1/ReadMe.md) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_WriteUp.pdf) | 
-|  Practice 2  | War Again            | [Description](/Practice2/ReadMe.md) | [Code](/Practice2/Code/) | [Write Up](/Practice2/PracticeTwo_WriteUp.pdf) |
-|  Practuce 3  | More Games           | [Description](/Practice3/ReadMe.md) | [Code](/Practice3/Code/) | [Write Up](/Practice3/PracticeThree_WriteUp.pdf)|
-|  Practice 4  | Card With Joker      | [Description](/Practice4/ReadMe.md) | [Code](/Practice4/Code/) | [Write Up](/Practice4/PracticeFour_WriteUp.pdf)|
-|  Practice 5  | Object Oriented Card | [Description](/Practice5/ReadMe.md) | [Code](/Practice5/Code/) | [Write Up](/Practice5/PracticeFive_WriteUp.pdf)|
-|  Practice 6  | Web Scrapper         | [Description](/Practice6/Readme.md) | [Code](/Practice6/Code/) | [Write Up](/Practice6/PracticeSix_WriteUp.pdf)|
+|  Practice 1  | War                  | [Description](/Practice1/ReadMe.md) | [Code](/Practice1/Code/) | [Write Up](/Practice1/PracticeOne_WriteUp.md) | 
+|  Practice 2  | War Again            | [Description](/Practice2/ReadMe.md) | [Code](/Practice2/Code/) | [Write Up](/Practice2/PracticeTwo_WriteUp.md) |
+|  Practuce 3  | More Games           | [Description](/Practice3/ReadMe.md) | [Code](/Practice3/Code/) | [Write Up](/Practice3/PracticeThree_WriteUp.md)|
+|  Practice 4  | Card With Joker      | [Description](/Practice4/ReadMe.md) | [Code](/Practice4/Code/) | [Write Up](/Practice4/PracticeFour_WriteUp.md)|
+|  Practice 5  | Object Oriented Card | [Description](/Practice5/ReadMe.md) | [Code](/Practice5/Code/) | [Write Up](/Practice5/PracticeFive_WriteUp.md)|
+|  Practice 6  | Web Scrapper         | [Description](/Practice6/Readme.md) | [Code](/Practice6/Code/) | [Write Up](/Practice6/PracticeSix_WriteUp.md)|
 | Term Project | Astroids             | [Description] | Code | Write Up |
 
 ## Notes
