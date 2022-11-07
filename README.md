@@ -37,7 +37,7 @@ These design and architeture ideas require programming language support. The cou
 |  Practuce 3  | More Games           | [Description](/Practice3/ReadMe.md) | [Code](/Practice3/Code/) | [Write Up](/Practice3/PracticeThree_WriteUp.md)|
 |  Practice 4  | Card With Joker      | [Description](/Practice4/ReadMe.md) | [Code](/Practice4/Code/) | [Write Up](/Practice4/PracticeFour_WriteUp.md)|
 |  Practice 5  | Object Oriented Card | [Description](/Practice5/ReadMe.md) | [Code](/Practice5/Code/) | [Write Up](/Practice5/PracticeFive_WriteUp.md)|
-|  Practice 6  | Web Scrapper         | [Description](/Practice6/Readme.md) | [Code](/Practice6/Code/) | [Write Up](/Practice6/PracticeSix_WriteUp.md)|
+|  Practice 6  | Web Scrapper         | [Description](/Practice6/ReadMe.md) | [Code](/Practice6/Code/) | [Write Up](/Practice6/PracticeSix_WriteUp.md)|
 | Term Project | Astroids             | [Description] | Code | Write Up |
 
 ## Notes
