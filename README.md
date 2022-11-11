@@ -45,6 +45,7 @@ These design and architeture ideas require programming language support. The cou
 * [01/17/2019](/Notes/01_17_2019.pdf)
 * [01/22/2019](/Notes/01_22_2019.pdf)
 * [01/24/2019](/Notes/01_24_2019.pdf)
+* [01/26/2019](/Notes/01_26_2019.md)
 * [01/29/2019](/Notes/01_29_2019.pdf)
 * [02/05/2019](/Notes/02_05_2019.pdf)
 * [02/07/2019](/Notes/02_07_2019.pdf)
