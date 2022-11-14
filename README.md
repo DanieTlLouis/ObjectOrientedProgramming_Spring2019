@@ -41,8 +41,8 @@ These design and architeture ideas require programming language support. The cou
 | Term Project | Astroids             | [Description](/TermProject/ReadMe.md) | [Code](/TermProject/16%20Asteroids/) | Write Up |
 
 ## Notes
-* [01/15/2019](/Notes/01_15_2019.pdf)
-* [01/17/2019](/Notes/01_17_2019.pdf)
+* [01/15/2019](/Notes/01_15_2019.md)
+* [01/17/2019](/Notes/01_17_2019.md)
 * [01/22/2019](/Notes/01_22_2019.pdf)
 * [01/24/2019](/Notes/01_24_2019.pdf)
 * [01/29/2019](/Notes/01_29_2019.pdf)
