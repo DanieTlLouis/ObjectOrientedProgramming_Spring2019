@@ -30,7 +30,7 @@ These design and architeture ideas require programming language support. The cou
 * Apply this knowledge to build interesting and useful applications 
 
 ## Projects
-|  Project     | Sub Name             | Description                           | Code                               | Write Up                                       |
+|  Project     | Sub Name             | Description                           | Code                               |   
 |:------------:|:--------------------:|:-------------------------------------:|:----------------------------------:|
 |  Practice 1  | War                  | [Description](/Practice1/ReadMe.md)   | [Code](/Practice1/Code/)           |
 |  Practice 2  | War Again            | [Description](/Practice2/ReadMe.md)   | [Code](/Practice2/Code/)           |
